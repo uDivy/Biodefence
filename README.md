@@ -66,15 +66,6 @@ Nvidia’s RAPIDS tools allowed me to perform complex data transformations and m
 - **Graph Analytics with cuGraph**: Understanding the virus spread through geographic graph clusters was a crucial skill developed.
 - **Real-World Data Analysis**: The simulation was based on real-world research into Ebola virus risk factors, giving me hands-on experience with pandemic modeling.
 
-## Future Directions
-
-This project has opened up numerous pathways for future work:
-
-- **Real-time epidemic monitoring**: Further developing the techniques to manage real-time data as new cases are reported.
-- **Edge computing**: Applying these methodologies in resource-constrained environments using devices like the Jetson Xavier NX.
-- **Expanding use of RAPIDS**: Exploring more advanced machine learning and AI use cases with the RAPIDS ecosystem.
-
----
 
 Assessment Project as part of Nvidia's Instructor Led Course at University of Florida: GPU-Accelerated Data Manipulation
 
